@@ -1,4 +1,4 @@
-## Opa! I'am Frederico Borges!
+## Opa! I'am Frederico!
 
 - 🐍 Iniciante em Python.
 - 📕 Estudando Hacking, Redes e Python.
