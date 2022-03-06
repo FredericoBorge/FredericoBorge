@@ -1,4 +1,4 @@
-## Opa! I'am Frederico!
+## Hello! I'am Frederico!
 
 - 🐍 Intermediário em Python.
 - 📕 Estudando Redes, Python e C.
