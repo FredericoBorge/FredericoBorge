@@ -1,8 +1,7 @@
 ## Opa! I'am Frederico!
 
 - 🐍 Iniciante em Python.
-- 📕 Estudando Hacking, Redes e Python.
-- 🏀 Jogo basquete em horas vagas.
+- 📕 Estudando Hacking, Redes, Python e C.
 
 
 
