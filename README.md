@@ -1,10 +1,11 @@
 ## Hello! I'am Frederico!
 
 - 🐍 Intermediário em Python.
-- 📕 Estudando Redes, Python e C.
+- 📕 Estudando Redes, Python e C#.
 - 🤫 OSINT.
-- 🪐 Entusiasta de Física e Astronomia
 - ⚡ Hacker
+- 🪐 Entusiasta de Física e Astronomia
+
 
 
 <div align="center">
