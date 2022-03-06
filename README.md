@@ -1,8 +1,10 @@
 ## Opa! I'am Frederico!
 
 - 🐍 Iniciante em Python.
-- 📕 Estudando Hacking, Redes, Python e C.
-
+- 📕 Estudando Redes, Python e C.
+- 🤫 OSINT.
+- 🪐 Entusiasta de Física e Astronomia
+- ⚡ Hacker
 
 
 <div align="center">
