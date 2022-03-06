@@ -1,6 +1,6 @@
 ## Opa! I'am Frederico!
 
-- 🐍 Iniciante em Python.
+- 🐍 Intermediário em Python.
 - 📕 Estudando Redes, Python e C.
 - 🤫 OSINT.
 - 🪐 Entusiasta de Física e Astronomia
